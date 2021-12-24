@@ -31,4 +31,9 @@ class pet_practiceTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
+    
+    func testUnitExample4() throws {
+        // This is an example of a functional test case.
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
+    }
 }
